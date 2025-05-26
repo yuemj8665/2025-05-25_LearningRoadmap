@@ -6,7 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.println("2025-05-26 feature/add-greeting 생성");
-        System.out.println("git과 discode 연동해보기");
+        System.out.println("git과 discode 연동해보기2");
 
 
         for (int i = 1; i <= 5; i++) {
